@@ -1,0 +1,281 @@
+pubs : 22
+masterpiece : 17
+in : 2, 19, 25, 27, 29, 30, 32
+charm : 6, 29
+center : 27
+extends : 20
+allure : 31
+amidst : 17
+only : 29
+west : 13
+promise : 13
+takes : 27
+notting : 32
+arms : 26
+buzz : 15
+dynamic : 5
+nearby : 18
+renowned : 13
+scene : 21
+that : 5, 14, 18, 21, 30, 31, 34, 35
+with : 3, 11, 13, 25, 28
+welcome : 15
+resilience : 34
+retaining : 31
+soundtrack : 12
+bars : 28
+passage : 26
+a : 1, 5, 9, 10, 12, 15, 16, 17, 18, 20, 24, 25, 30, 31, 34
+thames : 7
+arts : 19
+paths : 16
+seeking : 17
+soho : 27
+past : 34
+neighborhoods : 33
+flavor : 21
+food : 12
+from : 15, 21
+text : 1
+display : 24
+their : 9, 19
+day : 9, 24
+cosmopolitan : 6
+chaos : 17
+world-class : 13, 32
+unique : 6
+majestic : 26
+made : 31
+continues : 31
+story : 34
+the : 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 15, 17, 19, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 34, 35
+stroll : 10
+covent : 10
+until : 28
+london : 2, 7, 31, 33
+lush : 16
+savoring : 33
+hall : 17
+an : 33
+experiences : 33
+diverse : 10, 30
+aroma : 12
+corner : 34
+innovation : 35
+rich : 11
+global : 21, 31
+clubs : 28
+bank : 8
+it's : 34
+absorbing : 9
+vibrant : 2, 27
+into : 24
+coffees : 9
+allow : 26
+is : 11
+has : 31
+intertwines : 3
+nightlife : 27
+towering : 4
+metropolis : 6
+fare : 22
+echoes : 4
+pulse : 28
+beacon : 25
+those : 17
+becomes : 25
+garden : 10
+theaters : 13
+sipping : 9
+contributing : 11
+audiences : 14
+shadows : 5
+emotion : 14
+all : 19
+offerings : 23
+lights : 25
+through : 4, 10, 32
+energy : 28
+hill : 32
+meandering : 16
+unyielding : 35
+iconic : 7
+you : 1
+hyde : 15
+myriad : 18
+avenues : 4
+end : 13
+of : 1, 2, 3, 6, 7, 9, 10, 12, 13, 14, 15, 17, 18, 25, 30, 32, 33, 34
+forms : 19
+tranquility : 15
+culinary : 21, 23
+and : 3, 4, 8, 11, 12, 14, 16, 27, 28, 29, 31, 34, 35
+serene : 16
+every : 23, 34
+opens : 26
+cultural : 18, 20, 29
+hours : 28
+street : 12
+hustle : 3
+locals : 8
+or : 33
+stage : 27
+alike : 8
+eclectic : 11, 28, 33
+centuries-old : 5
+albert : 17
+international : 22
+city's : 11, 23, 24
+inspire : 34
+add : 12
+juxtaposition : 5
+gastronomic : 22
+facade : 25
+dawn : 7
+on : 5, 9
+skyline : 24
+tall : 8
+serving : 22
+illuminated : 26
+victorian : 18
+british : 21
+reveals : 10
+lakes : 16
+performers : 12
+realms : 14
+cobbled : 32
+silhouette : 7
+cruises : 27
+escape : 15
+greenery : 16
+enticing : 11
+oneself : 32
+imagination : 14
+simply : 33
+defines : 6, 35
+wonders : 29
+grand : 4
+tapestry : 10, 11, 30, 33
+breathtaking : 9
+peaceful : 16
+skyscrapers : 4
+sounds : 12
+london's : 13, 20, 29
+royal : 17
+this : 6, 35
+gather : 8
+present : 34
+cast : 5
+also : 30
+streets : 4, 10, 32
+hosting : 18
+eateries : 22
+whether : 32
+filled : 11
+captivate : 34
+shard : 25
+areas : 27
+for : 1, 13, 17, 26
+offer : 16
+shoreditch : 27
+course : 1
+celebrate : 18
+not : 29
+it : 31
+cultures : 10
+cater : 23
+morning : 8, 9
+historic : 10, 26
+views : 9
+park : 15
+bridge : 26
+treasures : 29
+like : 27
+immersing : 32
+breaks : 7
+community : 21
+mesmerizing : 24
+offers : 33
+captivating : 13
+crystalline : 25
+sky : 8, 25
+while : 9, 26, 31
+experience : 12
+turns : 24
+but : 30
+meets : 34
+museums : 32
+remarkable : 35
+lively : 12
+embracing : 20
+landscape : 35
+eye : 7
+against : 8
+individuality : 30
+embraces : 30
+stands : 7, 18
+performances : 13
+timeless : 31
+tower : 26
+longer : 1
+transport : 14
+wandering : 32
+showcasing : 22
+where : 2, 28, 34
+physical : 20
+provides : 15
+tells : 34
+creating : 5
+trendy : 22
+architectural : 29
+here's : 1
+river : 7, 27
+south : 8
+swan-filled : 16
+over : 7
+its : 13, 20, 21, 25, 26, 29, 30, 33
+events : 18
+hearty : 22
+flavors : 33
+people : 30
+evolve : 31
+along : 8
+endless : 33
+seamlessly : 2
+transforms : 24
+modernity : 3
+architecture : 18
+air : 11
+adds : 21
+early : 28
+as : 7, 24
+urban : 15, 17, 35
+beyond : 20
+cityscape : 2
+night : 24, 25
+landmarks : 5, 20
+to : 9, 11, 12, 14, 21, 22, 23, 24, 26, 31
+each : 11
+creativity : 31
+beckons : 13
+icon : 31
+traditional : 21
+lies : 29
+mosaic : 20
+solace : 17
+different : 14
+palate : 23
+retreat : 16
+life : 3
+narrow : 4
+awakening : 9
+bustle : 3
+delights : 22
+daily : 3
+new : 9
+away : 15
+proudly : 18
+tourists : 8
+history : 2
+spirit : 35
+city : 9, 30, 34
