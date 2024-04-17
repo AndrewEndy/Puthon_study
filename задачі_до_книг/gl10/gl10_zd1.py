@@ -1,6 +1,4 @@
 # class Pet
-
-
 class Pet:
     
     def __init__(self, name=None, animal_type=None, age=None) -> None:

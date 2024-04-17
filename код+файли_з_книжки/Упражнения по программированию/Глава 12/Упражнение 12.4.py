@@ -4,7 +4,10 @@
 
 def main():
     # Инициализировать список значений от 1 до 10.
-    number_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    number_list=[]
+    for i in range(5):
+        i = int(input(': '))
+        number_list.append(i)
 
     # Показать список.
     print('Список чисел:\n', number_list, sep='')
